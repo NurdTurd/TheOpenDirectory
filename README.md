@@ -1,3 +1,8 @@
-# My Awesome Book
+# The Open Directory
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+_The unofficial official open directory that contains a centralized list of open directories on the internet._
+
+
+
+_More to come soon._
+
